@@ -6,7 +6,6 @@ import {
   Param,
   Patch,
   Post,
-  Query,
 } from '@nestjs/common';
 import { Movie } from './entities/Movie.entitiy';
 import { CreateMovieDto } from './dto/create-movie.dto';
